@@ -1,2 +1,11 @@
-tetris
+# Tetris #
+
+tetris/*
+!tetris/icons
+tetris/icons/*
+!tetris/icons/tetris_icon_dnb.png
+!tetris/icons/tetris_icon_swb.png
+
+# Shooter game #
+
 shootergame
