@@ -3,8 +3,7 @@
 tetris/*
 !tetris/icons
 tetris/icons/*
-!tetris/icons/tetris_icon_dnb.png
-!tetris/icons/tetris_icon_swb.png
+!tetris/icons/tetris_icon.png
 
 # Shooter game #
 
