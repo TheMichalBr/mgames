@@ -1,9 +1,14 @@
 # Tetris #
 
 tetris/*
+
 !tetris/icons
 tetris/icons/*
 !tetris/icons/tetris_icon.png
+
+!tetris/scripts
+tetris/scripts/*
+!tetris/scripts/tetris.gd
 
 # Shooter game #
 
