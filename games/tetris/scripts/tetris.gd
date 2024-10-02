@@ -1,5 +1,5 @@
 # Tetris made by MichalBr
 
-# Created in Godot 4.2
+# Created in Godot 4.3
 
 # Thanks for playing my game!
