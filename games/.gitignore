@@ -12,7 +12,13 @@ tetris/scripts/*
 
 # Shooter game #
 
-shootergame
+shootergame/*
+!shootergame/.gitignore
+
+!shootergame/game
+shootergame/game/*
+!shootergame/game/.gitignore
+
 
 # Other #
 
